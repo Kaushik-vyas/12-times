@@ -1,0 +1,29 @@
+body{
+    min-width: 100vh;
+    display: flex;
+    justify-content: center;
+    background-color:antiquewhite;
+}
+
+.con{
+    background-color: aqua;
+    height: 17rem;
+    width: 13rem;
+    text-align: center;
+    margin-top: 6rem;
+    border-radius: 10px;
+    border: 1px solid black;
+    box-shadow: 10px 10px 10px;
+}
+
+h1{
+    text-shadow: 3px 5px 8px;
+}
+
+h4{
+    font-size: 25px;
+    color: black;
+    margin-top: 4rem;
+    text-shadow: 3px 5px 5 px;
+    font-family: cursive;
+}
